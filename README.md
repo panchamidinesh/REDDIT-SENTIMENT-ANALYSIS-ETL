@@ -65,3 +65,5 @@ Easier setup and minimal configuration
 Cloud-native orchestration (free Prefect Cloud tier)
 Developer-friendly Python-based flow definition
 Simpler for academic and small-scale research projects
+
+Copy rights to Panchami Dinesh
